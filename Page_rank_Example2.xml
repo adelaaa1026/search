@@ -1,0 +1,43 @@
+<xml>
+    <page>
+        <title>A</title>
+        <id>0</id>
+        <text>
+the dog bit
+==See also==
+*[[C]]
+        </text>
+    </page>
+
+    <page>
+        <title>B</title>
+        <id>1</id>
+        <text>The sun is beautiful!
+==See also==
+*[[D]]  
+          
+
+        </text>
+    </page>
+
+    <page>
+        <title>C</title>
+        <id>2</id>
+        <text>
+The rain is so heavy.
+==See also==
+*[[D]] 
+        </text>
+    </page>
+
+        <page>
+        <title>D</title>
+        <id>3</id>
+        <text>
+The rain is so heavy.
+==See also==
+*[[A]] 
+*[[C]]
+        </text>
+    </page>
+</xml>

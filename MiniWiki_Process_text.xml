@@ -1,0 +1,31 @@
+<xml>
+    <page>
+        <title>weather</title>
+        <id>0</id>
+        <text>
+The    weather is good,    ,,,. ... isn't it? Weathers!
+WEATHER
+[water]  "water" 'see?'  
+==See also==
+*[[sun]] 
+*[[see|rain]]
+*[[sun]]
+*[[rain|love the rainy days!]]
+
+        </text>
+    </page>
+    <page>
+        <title>sun</title>
+        <id>1</id>
+        <text>The sun is beautiful!</text>
+    </page>
+    <page>
+        <title>rain</title>
+        <id>2</id>
+        <text>
+The rain is so heavy.
+==See also==
+*[[weather]] 
+        </text>
+    </page>
+</xml>

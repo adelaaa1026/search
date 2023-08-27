@@ -1,0 +1,26 @@
+<xml>
+    <page>
+        <title>ratty</title>
+        <id>0</id>
+        <text>
+Ratty has the best beef. Beef tastes good.    
+==See also==
+
+
+        </text>
+    </page>
+    <page>
+        <title>andrews</title>
+        <id>1</id>
+        <text>Andrews is better than ratty.</text>
+    </page>
+    <page>
+        <title>tasty</title>
+        <id>2</id>
+        <text>
+Beef and carrots are tasty.
+==See also==
+
+        </text>
+    </page>
+</xml>
